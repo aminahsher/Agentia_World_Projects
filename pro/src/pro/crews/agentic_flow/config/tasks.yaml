@@ -1,0 +1,6 @@
+agentia_coding:
+  description: >
+    write a code for a given {requirements}
+  expected_output: >
+    A code for the given {requirements}
+  agent: agentia_coder
